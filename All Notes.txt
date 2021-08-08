@@ -1,0 +1,78 @@
+Score for different eniemies
+
+Shoot thing different from the ship by different key by differenet score per hit(will not done ever)
+ 
+Enemies disapper ويظهر ويضرب طلقة جديدة مدربهاش حد قبل كده وإما يموت الأنيمز يضرب ضربة جديدة أقوي بتموت محاولتين في نفس الوقت وليه أولاد بيحموه هما سبب إختفائه(will not done ever)
+
+البوس بيختفي(will not done ever)
+
+
+Make it like a planet كوروية(will not done ever)
+
+Red color with mountains the same بدل اللافا
+
+ships dieas from one time if it's touch the red ones but if anything else decresment the number the incresment when u kill a group of enemeies(=1point) and when get's to the boss use your lives(will not done ever)
+
+
+
+السفينة الboos تيجي من الكوكب المتدمر
+
+BOSS بيلف في الحفرة وإما يخلص يقدر يروح لتايم لاين النهاية(will not done ever)
+
+
+مفيش كنترولوز غير إما يطلع بفضل واقف والكاميرا تبدأ تشتغل إما يضغط
+
+
+
+إما يعدي علي أحمر بيحول لون التكيستشر ل اللون العادي(will not done ever)
+
+
+البوس بيختفي ويظهر أما يكون أولاده مضربوش في الأول أي واحد منضربش في الأول بيروح معاه في الآخر علشان كده بيطلع فوق عند الكوكب كلهم(will not done ever)
+
+
+3enimes واحد بيكون قدام البلاير وبعدين بعد ميمشوا بشوية أو "يضرب عليه طلقتين مثلا كمدة زمنية من أول مرة" يظهر ال enieme الثاني وبعدين يغيب شوية وقبل ميمشي بشوية صغيرين يجي التالث يعدي وهيقف شوية عن الأحمر وبعدين يطير
+
+
+خد الإنيمز حطهم في الأوبجت parent ده لو موجود أو لو موجود خليه الأوبجكتس تشيردلن أكتيف وهكذا لكل أوبجكت تشايلد (ولو مامتوش حطهم بعدد ضربات أكبر الضعف)
+
+أولاد البوس ورا وبعدين إما يموتوا(will not done ever)
+البوس بيضرب من عينه(will not done ever)
+
+
+لو موت الإنيمز في الأول تزداد الضرب الضعف(will not done ever)
+
+
+
+
+
+
+
+البارتيكل بتاع البوس بيشتغل إما أولاده يموتوا ويلف(will not done ever)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*  Mega Notes  */
+
+
+نظبط ال أوترو علشان لو ضغط بيفضل ضاغط جرب لو إنتا مش فاهم 
+
+الفكرة إنه بعد ميخلص ال إنترو بيرجع لطبيعته
+
+
+
+
+
+
+

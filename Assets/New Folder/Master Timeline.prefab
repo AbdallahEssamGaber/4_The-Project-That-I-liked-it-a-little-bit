@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2592583337650155925
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2592583337650155927}
+  - component: {fileID: 2592583337650155926}
+  m_Layer: 0
+  m_Name: Master Timeline
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2592583337650155927
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2592583337650155925}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 227.23425, y: 67.26598, z: 113.46147}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!320 &2592583337650155926
+PlayableDirector:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2592583337650155925}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_PlayableAsset: {fileID: 11400000, guid: fb5a05d57940ed1489de2cdba68fac2a, type: 2}
+  m_InitialState: 1
+  m_WrapMode: 2
+  m_DirectorUpdateMode: 1
+  m_InitialTime: 0
+  m_SceneBindings:
+  - key: {fileID: -4288828368565228751, guid: fb5a05d57940ed1489de2cdba68fac2a, type: 2}
+    value: {fileID: 0}
+  - key: {fileID: 778349261379698866, guid: fb5a05d57940ed1489de2cdba68fac2a, type: 2}
+    value: {fileID: 0}
+  - key: {fileID: 2661521454607043798, guid: fb5a05d57940ed1489de2cdba68fac2a, type: 2}
+    value: {fileID: 0}
+  m_ExposedReferences:
+    m_References:
+    - b053cd68a640d3f4e9901754594f3b91: {fileID: 0}
+    - fd850ba515f424d468a6ed1a75948b69: {fileID: 0}
+    - 31d65f396d342904089cbfdde1e9bccc: {fileID: 0}
+    - e8e94c126465be44a84eaf9b6cf3bbcc: {fileID: 0}
+    - 4f0b5f8a7957e354d853873c775de199: {fileID: 0}
+    - 2b65451921704954eb137bea6f6d4a19: {fileID: 0}
